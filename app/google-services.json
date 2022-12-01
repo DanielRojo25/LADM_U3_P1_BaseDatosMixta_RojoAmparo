@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309549787190",
+    "project_id": "u3practica1-8ab0e",
+    "storage_bucket": "u3practica1-8ab0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309549787190:android:3be7955049f77bdb5d1097",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_p1_basedatosmixta_rojoamparo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309549787190-ua3384bu3c9a3a3ddv1h1ramnmubkogh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1Edy7wnYysDeiTDNPXBu38-bzPILs-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309549787190-ua3384bu3c9a3a3ddv1h1ramnmubkogh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
